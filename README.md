@@ -1,5 +1,4 @@
 # HTML-Cv-project
-HALOOOO~
 
-projet website:
+main project website for this repository:
 https://roadmap.sh/projects/single-page-cv
